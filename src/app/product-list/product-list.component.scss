@@ -1,0 +1,27 @@
+#heading {
+    text-align: center;
+}
+
+.mid {
+    height:100vh;
+}
+
+.buttons{
+    flex-direction: row;
+}
+
+.product-item img{
+    width:200px;
+    object-fit:contain;
+    padding:5px;
+}
+
+.product-item {
+    border: 1px solid #ccc;
+    margin-right: 25px;
+    margin-bottom: 40px;
+}
+.product-list-wrapper {
+    margin:10px;
+    padding: 10px;
+}
